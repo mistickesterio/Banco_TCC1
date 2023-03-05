@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T16:14:09.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5W_J3He9ugadmqeh_0XE" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-05T16:14:24.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_sSW3t2H1Ob8-hcOzWgm" version="21.0.2" type="github">
   <diagram name="Página-1" id="49ChyUxOX3ig4t__MyXS">
     <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="175" y="334" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oFJ-YZ0ALQoqBtDVKh8i-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MER TELA DE LISTAGEM DE VAGAS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="249" y="40" width="346" height="30" as="geometry" />
+          <mxGeometry x="260" y="40" width="346" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oFJ-YZ0ALQoqBtDVKh8i-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=18;fillColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="165" y="464" width="20" height="20" as="geometry" />
