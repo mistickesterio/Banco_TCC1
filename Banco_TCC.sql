@@ -1,11 +1,11 @@
-DROP DATABASE cuidadores1;
+DROP DATABASE cuidadores;
 
-CREATE DATABASE cuidadores1; 
-USE cuidadores1;
+CREATE DATABASE cuidadores; 
+USE cuidadores;
 
 CREATE TABLE tipo (
     id INT NOT NULL PRIMARY KEY,
-    nome VARCHAR(255) NOT NULL
+    nome VARCHAR(10) NOT NULL
 );
 
 CREATE TABLE estados (
